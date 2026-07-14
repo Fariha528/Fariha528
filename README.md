@@ -169,14 +169,11 @@ GitHub Trophies
 
 Contribution Activity
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fariha528&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=b8a9f0&line=a29bfe&point=E6E1FA" width="95%"/>
-</div>
-<br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Fariha528/Fariha528/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</div>
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fariha528/Fariha528/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fariha528/Fariha528/output/github-contribution-grid-snake.svg" />
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/Fariha528/Fariha528/output/github-contribution-grid-snake.svg" />
+</picture>
 
 Current Focus
 
