@@ -74,6 +74,11 @@ Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fariha528&theme=react-dark&hide_border=true&bg_color=0F172A&color=60A5FA&line=1E3A8A&point=E0E7FF" width="95%"/>
 </div>
 <br/>
+
+<div align="center">
+  
+### 🐍 Watch the snake enjoy my contribution graph
+</div>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fariha528/Fariha528/output/github-contribution-grid-snake-dark.svg" />
